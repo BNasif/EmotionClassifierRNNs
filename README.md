@@ -52,12 +52,7 @@ The EmpatheticDialogues dataset was mapped into six emotions. Upon receiving use
 
 The project effectively demonstrates an emotionally aware chatbot by integrating an emotion classifier into a retrieval-based response system. Future enhancements can be made by employing larger datasets, refining the retrieval system, and implementing reinforcement learning methods.
 
-## Getting Started
 
-*This section should include instructions on setting up your project locally.*
-- Prerequisites
-- Installing
-- Running the tests
 
 ## Acknowledgements
 
